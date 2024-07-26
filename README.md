@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BlueFlash26
-- 👀 I’m interested in ComputerEngineering
+- 👀 I’m interested in ElectricalEngineering
 - 🌱 I’m currently learning WebDevelopment as a startup
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
